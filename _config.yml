@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "icedterminal"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "is a blog"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -40,7 +40,7 @@ navigation:
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+#disqus: justgoodthemes
 
 # Colors
 accent_color: '#2d72d9'
